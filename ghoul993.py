@@ -1,3 +1,4 @@
+print("I'm a ghoul")
 print("1000 - 7 = 993")
 print("1000 - 8 = 992")
 print("1000 - 9 = 991")
